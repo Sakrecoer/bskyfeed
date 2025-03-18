@@ -30,6 +30,7 @@ jobs:
           # Template of status posted to Bluesky (Handlebars)
           template: |
             𝕹𝖊𝖜 𝖛𝖎𝖉𝖊𝖔 𝖔𝖓 𝕭𝖆𝖘𝖘𝖕𝖎𝖘𝖙𝖔𝖑 🎬
+            
             【{{item.title}}】
             
             {{item.link}}
